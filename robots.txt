@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lanumbic.github.io/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/app/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/assets/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/css/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/data/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/includes/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/item/sitemap.html.gz
+Sitemap: https://lanumbic.github.io/src/sitemap.html.gz
